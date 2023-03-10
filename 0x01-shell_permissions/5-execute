@@ -1,3 +1,2 @@
-#!/bin/bash
+#!/bash/bin
 chmod u+x hello
-
